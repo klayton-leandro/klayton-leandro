@@ -57,12 +57,6 @@ Sou apaixonado por tecnologia, automação e desenvolvimento de soluções inova
  </a>
 </div>
 
----
-
-![Snake animation](https://github.com/klayton-leandro/klayton-leandro/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🎯 Sobre Mim
 - 🛠 Tecnologias que domino: **Java**, **Node.js**, **React**, **TypeScript**, **Python**, **AWS** (SNS, SQS, Lambda), **Jenkins**, **GitHub Actions**, entre outras.
 - 🌐 Conecte-se no [LinkedIn](https://www.linkedin.com/in/klayton-leandro/) para acompanharmos juntos as últimas tendências do setor!
